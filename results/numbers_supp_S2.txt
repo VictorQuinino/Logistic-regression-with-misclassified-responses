@@ -1,0 +1,17 @@
+$`rel. bias of beta2, binomial regression, e = 0.05, 0.10, 0.20`
+     b2      b2      b2 
+-0.1174 -0.2282 -0.4356 
+
+$`rel. bias of beta2, SM with m = 3, e = 0.05, 0.10, 0.20`
+[1] -0.01749 -0.06663 -0.23685
+
+$`scenarios with MSE(binomial) < MSE(SM)`
+[1] "m=3,(0.05,0.05),n=100" "m=3,(0.20,0.20),n=50"  "m=5,(0.05,0.05),n=100"
+[4] "m=5,(0.20,0.20),n=50" 
+
+$`size of the test, binomial regression (%)`
+[1] "10.1 to 35.4"
+
+$`size of the test, SM (%)`
+[1] "2.6 to 5.2"
+

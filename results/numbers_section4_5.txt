@@ -1,0 +1,26 @@
+$`proportion of unanimous units, m = 3, e1 = e2 = 0.05 and 0.20`
+       e1   prop        u1
+b1   0.05 0.8575 0.0001458
+b143 0.20 0.5200 0.0153846
+
+$`intercept shift, (0.05,0.20), m = 3`
+[1] 0.5002
+
+$`min asymptotic coverage of slopes, unanimous units, n = 500 and 1000`
+[1] 0.9412
+
+$`finite sample: unanimous coverage (%), n>=500`
+[1] "94.3 to 95.6"
+
+$`finite sample: SM coverage (%), minimum for n>=500`
+[1] 31.1
+
+$`finite sample: width ratio unanimous/SM, n>=500`
+[1] "1.0833001269641 to 1.81659615668536"
+
+$`finite sample: width ratio unanimous/SM, n=50`
+[1] "1.10126516618888 to 2.08998379910583"
+
+$`finite sample: unanimous failures (%), n=50`
+[1] "0.3 to 21.3"
+
